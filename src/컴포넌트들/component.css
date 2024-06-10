@@ -1,0 +1,48 @@
+#guidebutton {
+  margin: 100px;
+  height: 60px;
+  width: 200px;
+  border-radius: 7%;
+  border: none;
+  background-color: #ffffff;
+}
+
+#guidebutton:active{
+  background-color: #aaaaaa;
+}
+
+#boardbutton{
+  margin: 100px;
+  height: 60px;
+  width: 200px;
+  border-radius: 7%;
+  border: none;
+  background-color: #ffffff;
+}
+
+#boardbutton:active{
+  background-color: #aaaaaa;
+}
+
+#yolobutton{
+  margin: 100px;
+  height: 60px;
+  width: 200px;
+  border-radius: 7%;
+  border: none;
+  background-color: #ffffff;
+}
+
+#guidebutton:active{
+  background-color: #aaaaaa;
+}
+
+/*guidescreen style*/
+#buildingbutton{
+  width: 300px;
+  height: 80px;
+}
+
+#Modal{
+  color: black;
+}

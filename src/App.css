@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 4vmin);
+  color: white;
+}
+
+
+
+body{
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+#title {
+  color: #000000;
+}
+
+.homeScreenHeader{
+  text-align: center;
+}
+
+#mainNav{
+  background-color: #000000;
+}
+
+#app-title{
+  color: white;
+}
+
+#button{
+  margin: 10px 5px;
+}
