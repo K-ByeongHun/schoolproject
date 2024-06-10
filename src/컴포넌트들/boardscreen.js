@@ -10,7 +10,7 @@ function boardscreen () {
   );
 }
 
-function Navigation(){          //네비게이션 바 치환툴
+function Navigation(){          //네비게이션 바 치환툴  
   const nav = useNavigate();
 
   const ToHome = () => {
