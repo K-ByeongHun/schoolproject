@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .form-group {
+    margin-bottom: 20px;
+    margin-top: 30px;
+  }
+  .password-group {
+    position: relative;
+  }
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  .btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  .btn:hover {
+    background-color: #1d63ad;
+  }
+  .warning {
+    color:red;
+    font-size: 0.8em;
+    margin-top: -15px; 
+    position: absolute; 
+  }
+  .change-Password-Button {
+    border: none;
+    background: none;
+    color: #007bff;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  .change-Password-Button:hover {
+    color: #0056b3;
+  }
+  .show-password-button {
+    position: absolute;
+    right: -15px;
+    top: 54%;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
