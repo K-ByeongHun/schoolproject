@@ -6,7 +6,7 @@ import 초기화면 from './컴포넌트들/초기화면.js'; //초기화면 불
 import MainScreen from './컴포넌트들/mainscreen.js';  // 메인화면 불러오는 임포트
 import HomeScreen from './컴포넌트들/homescreen.js';  // 홈화면 불러오는 임포트
 import Guidescreen from './컴포넌트들/Guidescreen.js';  // 가이드화면 불러오는 임포트
-import boardscreen from './컴포넌트들/boardscreen.js';  //
+import boardscreen from './컴포넌트들/boardscreen.js';  //helo
 //가이드 화면 컴포넌트 import
 import C동 from './컴포넌트들/guide/C동.js'
 import N동 from './컴포넌트들/guide/N동.js'
