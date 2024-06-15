@@ -4,7 +4,8 @@
   width: 200px;
   border-radius: 7%;
   border: none;
-  background-color: #ffffff;
+  color: #ffffff;
+  background-color: #000000;
 }
 
 #guidebutton:active{
@@ -17,7 +18,8 @@
   width: 200px;
   border-radius: 7%;
   border: none;
-  background-color: #ffffff;
+  color: #ffffff;
+  background-color: #000000;
 }
 
 #boardbutton:active{
@@ -30,7 +32,8 @@
   width: 200px;
   border-radius: 7%;
   border: none;
-  background-color: #ffffff;
+  color: #ffffff;
+  background-color: #000000;
 }
 
 #guidebutton:active{

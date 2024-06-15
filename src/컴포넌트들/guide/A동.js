@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import { Link} from "react-router-dom";
 import ReactModal from "react-modal";
-import image from "./배경화면.jpg"
+import image from "./사진/배경화면.jpg"
 
 ReactModal.setAppElement("#root");
 

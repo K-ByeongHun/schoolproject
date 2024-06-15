@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import ReactModal from "react-modal";
-import image from "./배경화면.jpg"
+import image from "./사진/배경화면.jpg"
+import gallaxyhall_image from "./사진/갤럭시홀 사진.jpg"
 
 ReactModal.setAppElement("#root");
 
@@ -67,7 +68,7 @@ function C동() {
         onClose={closeGalaxyHall}
         title="갤럭시홀"
         content="갤럭시홀은 학생들이 모두 모여서 강연을 듣거나 교육을 받는 곳입니다."
-        imageSrc={image}
+        imageSrc={gallaxyhall_image}
       />
       <DecoModal
         isOpen={isStudyRoomOpen}
