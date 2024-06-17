@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     let isError = false; // 오류 여부 변수 초기화
 
     function isValidEmail(email) {
-      const re = /^[a-zA-Z0-9._%+-]+@gmail\.com$/; // gmail만 사용
+      const re = /^[a-zA-Z0-9._%+-]+@cnsa\.hs\.kr$/; // cnsa 학교 계정만 사용
       return re.test(email);
     }
 
